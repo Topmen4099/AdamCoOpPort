@@ -27,3 +27,4 @@
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/AdamCoOpPort.pdb
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/AdamCoOpPort.genruntimeconfig.cache
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/ref/AdamCoOpPort.dll
+/Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/AdamCoOpPort.sourcelink.json
