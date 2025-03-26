@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdamCoOpPort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb5e0cca7e8d6e514c655be2bb32c26f4e65f0c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3714dcdc15ce2dace96a1f479e636670ad93010")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdamCoOpPort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdamCoOpPort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
