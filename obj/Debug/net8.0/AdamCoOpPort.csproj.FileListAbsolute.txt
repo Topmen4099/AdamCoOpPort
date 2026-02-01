@@ -28,3 +28,6 @@
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/AdamCoOpPort.genruntimeconfig.cache
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/ref/AdamCoOpPort.dll
 /Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/AdamCoOpPort.sourcelink.json
+/Users/adamhadad/Desktop/AdamCoOpPort/bin/Debug/net8.0/AdamCoOpPort.staticwebassets.endpoints.json
+/Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/staticwebassets/msbuild.AdamCoOpPort.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

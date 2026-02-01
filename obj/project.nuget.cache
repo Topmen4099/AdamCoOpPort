@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NXeHdPUE5G4=",
+  "dgSpecHash": "Frl0lpluvdM=",
   "success": true,
   "projectFilePath": "/Users/adamhadad/Desktop/AdamCoOpPort/AdamCoOpPort.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/adamhadad/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/adamhadad/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/adamhadad/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

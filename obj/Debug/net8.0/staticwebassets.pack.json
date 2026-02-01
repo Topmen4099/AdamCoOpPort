@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/adamhadad/Desktop/AdamCoOpPort/obj/Debug/net8.0/scopedcss/projectbundle/AdamCoOpPort.bundle.scp.css",
-      "PackagePath": "staticwebassets/AdamCoOpPort.bundle.scp.css"
+      "PackagePath": "staticwebassets/AdamCoOpPort.vonjnz5l1b.bundle.scp.css"
     },
     {
       "Id": "/Users/adamhadad/Desktop/AdamCoOpPort/wwwroot/app.css",
@@ -19,6 +19,10 @@
     {
       "Id": "/Users/adamhadad/Desktop/AdamCoOpPort/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AdamCoOpPort.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AdamCoOpPort.Microsoft.AspNetCore.StaticWebAssets.props",
